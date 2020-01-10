@@ -6,4 +6,7 @@ Agregue un banner para el menu
 Hola, agregue login
 Hola, aguegue actualice base de datos
 
+
 Acabamos uwu
+
+Borre imagenes pixeleadas
