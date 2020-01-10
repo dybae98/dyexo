@@ -1,3 +1,6 @@
+Hola, cree este sitio y vamos a colaborar para encontrar mejoras.
+Hola, clone este sitio para colaborar, aplicar cambios y mejoras. 
+Hola, agregue un menu.
 Hola, cree este sitio y vamos a colaborar para encontrar mejoras. 
 Agregue un banner para el menu
 Hola, agregue login
